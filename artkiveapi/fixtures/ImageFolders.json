@@ -1,0 +1,10 @@
+[
+    {
+        "model": "artkiveapi.ImageFolder",
+        "pk": 1,
+        "fields": {
+            "image": 1,
+            "folder": 1
+        }
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "model": "artkiveapi.ImageTag",
+        "pk": 1,
+        "fields": {
+            "image": 1,
+            "tag": 1
+        }
+    }
+]

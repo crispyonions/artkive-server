@@ -1,0 +1,9 @@
+[
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 1,
+        "fields": {
+            "tag_name": "landscape"
+        }
+    }
+]

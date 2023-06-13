@@ -1,0 +1,11 @@
+[
+    {
+        "model": "artkiveapi.Image",
+        "pk": 1,
+        "fields": {
+            "description": "Beautiful sunset",
+            "img_url": "https://example.com/sunset.jpg",
+            "user": 1
+        }
+    }
+]

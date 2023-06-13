@@ -1,0 +1,10 @@
+[
+    {
+        "model": "artkiveapi.Folder",
+        "pk": 1,
+        "fields": {
+            "folder_name": "Landscapes",
+            "user": 1
+        }
+    }
+]
