@@ -3,7 +3,70 @@
         "model": "artkiveapi.Tag",
         "pk": 1,
         "fields": {
-            "tag_name": "landscape"
+            "tag_name": "portrait"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 2,
+        "fields": {
+            "tag_name": "still life"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 3,
+        "fields": {
+            "tag_name": "animals"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 4,
+        "fields": {
+            "tag_name": "nature"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 5,
+        "fields": {
+            "tag_name": "fantasy"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 6,
+        "fields": {
+            "tag_name": "poses"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 7,
+        "fields": {
+            "tag_name": "flowers"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 8,
+        "fields": {
+            "tag_name": "food"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 9,
+        "fields": {
+            "tag_name": "abstract"
+        }
+    },
+    {
+        "model": "artkiveapi.Tag",
+        "pk": 10,
+        "fields": {
+            "tag_name": "cityscape"
         }
     }
 ]

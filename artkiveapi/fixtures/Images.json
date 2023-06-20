@@ -3,9 +3,27 @@
         "model": "artkiveapi.Image",
         "pk": 1,
         "fields": {
-            "description": "Beautiful sunset",
-            "img_url": "https://example.com/sunset.jpg",
-            "user": 1
+            "description": "peonies",
+            "img_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/pink-peonies-in-blue-vase-grace-matthews.jpg",
+            "muser": 1
+        }
+    },
+    {
+        "model": "artkiveapi.Image",
+        "pk": 2,
+        "fields": {
+            "description": "skull and floral still life",
+            "img_url": "https://www.researchgate.net/publication/359227385/figure/fig4/AS:1133732815732736@1647314375162/1642-Vanitas-Still-Life-with-Flowers-and-Skull-Adriaen-van-Utrecht-In-his-1642.jpg",
+            "muser": 1
+        }
+    },
+    {
+        "model": "artkiveapi.Image",
+        "pk": 3,
+        "fields": {
+            "description": "dora maar star woman",
+            "img_url": "https://i.pinimg.com/564x/72/5b/04/725b0466ac05376142dd1a93ff39010b.jpg",
+            "muser": 1
         }
     }
 ]
