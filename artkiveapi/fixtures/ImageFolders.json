@@ -6,6 +6,19 @@
             "image": 1,
             "folder": 1
         }
-    }
-    
+    },
+    {
+        "model": "artkiveapi.ImageFolder",
+        "pk": 2,
+        "fields": {
+            "image": 2,
+            "folder": 1
+    }},
+    {
+        "model": "artkiveapi.ImageFolder",
+        "pk": 3,
+        "fields": {
+            "image": 3,
+            "folder": 1
+    }}
 ]

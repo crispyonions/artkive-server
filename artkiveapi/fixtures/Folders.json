@@ -3,7 +3,7 @@
         "model": "artkiveapi.Folder",
         "pk": 1,
         "fields": {
-            "folder_name": "Landscapes",
+            "folder_name": "test",
             "creator": 1
         }
     }
